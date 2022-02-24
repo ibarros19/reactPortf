@@ -1,0 +1,161 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+:root {
+  --bg: rgb(99 102 241 );
+  --border: 1px solid #474a4d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(./pics/wallpaper.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.navbar-toggler:focus {
+  box-shadow: 0 0 15px rgba(0, 0, 0, .25);
+}
+.contactdiv {
+  background-color: #009788;
+  margin: auto;
+  width: 70%;
+  border: 3px solid green;
+  padding: 10px 0;
+  text-align: center;
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.icon:hover:not(.active) {
+  background-color: white;
+  color: #333;
+}
+
+section {
+  /* position: relative; */
+  /* display: flex; */
+  /* flex-direction: column; */
+  align-items: center;
+  min-height: 100vh;
+  padding-top: 100px;
+}
+
+footer a:hover:not(.active) { 
+    display: block; 
+    color: white;
+ } 
+
+.nav a.active {
+  position: relative;
+}
+.nav a.active::after {
+  content: ' ';
+  position: absolute;
+  bottom: 0;
+  left: 10px;
+  right: 10px;
+  height: 3px;
+  background-color: white;
+}
+
+#logo {
+  font-family: 'Great Vibes', cursive;
+  font-size: 40px;
+  font-weight: 400;
+  text-decoration: none;
+  margin-bottom: -6px;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+}
+
+.icon {
+  text-decoration: none;
+}
+
+.site-rounded {
+  border-radius: 16px;
+}
+
+.bg-gray {
+  background-color: #ddd;
+}
+
+.bg-darkgray {
+  background-color: #333;
+}
+
+.btn-primary,
+.bg-primary {
+  background-color: blueviolet!important;
+  border: 0;
+}
+.text-primary {
+  color: blueviolet!important;
+}
+
+.site-menu .nav a:hover {
+  opacity: .5;
+}
+
+.fw-400 { font-weight: 400 }
+.fw-500 { font-weight: 500 }
+.fw-600 { font-weight: 600 }
+/* .fw-700 { font-weight: 700 } */
+
+.svg-check {
+  width: 20px;
+  margin-right: 12px;
+  color: #8de10c;
+}
+
+@media (max-width: 768px) {
+  .site-menu.show {
+    max-height: 212px;
+    margin-top: 8px;
+  }
+  .site-menu {
+    display: flex;
+    width: 100%;
+    /* background: rgba(0,0,0,.8); */
+    font-size: 22px;
+    max-height: 0;
+    transition: all .75s;
+    overflow: hidden;
+    margin-top: 0;
+    
+  }
+  
+  .site-menu .nav {
+    flex-direction: column;
+    height: 212px;
+    background-color: rgba(0, 0, 0, .25);
+    width: 100%;
+    
+  }
+  .site-menu .nav-item {
+
+  }
+
+}
