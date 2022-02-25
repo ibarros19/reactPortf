@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactPortf/static/css/main.69cec96d.css",
+    "main.js": "/reactPortf/static/js/main.dba21f9b.js",
+    "static/js/787.07417e54.chunk.js": "/reactPortf/static/js/787.07417e54.chunk.js",
+    "static/media/blog4.png": "/reactPortf/static/media/blog4.f7644d883105d55144ea.png",
+    "static/media/weatherD5.png": "/reactPortf/static/media/weatherD5.bb387489ae1d7ac77ab0.png",
+    "static/media/PROFILE.png": "/reactPortf/static/media/PROFILE.f1d9fe16cc6539a2923e.png",
+    "static/media/workDayShcheduler6.png": "/reactPortf/static/media/workDayShcheduler6.f7bc2f29823aca7a801b.png",
+    "static/media/teamManagementP3.png": "/reactPortf/static/media/teamManagementP3.ad583b2510c76c5d3380.png",
+    "static/media/noteTaker2.png": "/reactPortf/static/media/noteTaker2.482d480cad568a002990.png",
+    "static/media/passGen1.JPG": "/reactPortf/static/media/passGen1.55cba1a17f6d194b1f63.JPG",
+    "static/media/wallpaper.jpeg": "/reactPortf/static/media/wallpaper.69b17d902e5729d57f0b.jpeg",
+    "index.html": "/reactPortf/index.html",
+    "main.69cec96d.css.map": "/reactPortf/static/css/main.69cec96d.css.map",
+    "main.dba21f9b.js.map": "/reactPortf/static/js/main.dba21f9b.js.map",
+    "787.07417e54.chunk.js.map": "/reactPortf/static/js/787.07417e54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69cec96d.css",
+    "static/js/main.dba21f9b.js"
+  ]
+}
