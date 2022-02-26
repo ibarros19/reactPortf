@@ -36,7 +36,7 @@ My task in this assignment was to build my portfolio using React, its components
 [Main Menu](#home)
   
 -Use the command line: "npm install" to install the dependencies;<br>
--To run the application, please run the command line: "npm start". After that, the page will open automatically on your browser. If not, open your web browser and visit your localhost at: "http://localhost:3001" and, if needed, hit enter. <br>
+-To run the application, please run the command line: "npm start". After that, the page will open automatically on your browser. If not, open your web browser and visit your localhost at: "http://localhost:3000" and, if needed, hit enter. <br>
 
 
  
