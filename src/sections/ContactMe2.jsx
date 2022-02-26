@@ -45,7 +45,7 @@ export default function ContactMe2 () {
 </svg>
           </div>
           <div className="border-0 col-10 text-start border">
-            E-mail:<a className="icon" href="mailto:ivibarros19@gmail.com"> ivibarros19@gmail.com</a>
+            E-mail:<a className="icon" href="mailto:ivibarros19@gmail.com"> Click Here</a>
           </div>
         </div>
       </div>
@@ -58,7 +58,7 @@ export default function ContactMe2 () {
 </svg>
           </div>
           <div className="border-0 col-10 text-start border">
-          LinkedIn:<a className="icon" href="https://www.linkedin.com/in/ibarros19/"> https://www.linkedin.com/in/ibarros19/</a>
+          LinkedIn:<a className="icon" href="https://www.linkedin.com/in/ibarros19/"> Click Here</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@ export default function ContactMe2 () {
           </div>
           <div className="border-0 col-10 text-start border">
           Twitter: <a className="icon" href="https://twitter.com/ivi_barros" target="_blank"
-            rel="noreferrer"> https://twitter.com/ivi_barros</a>
+            rel="noreferrer"> Click Here</a>
           </div>
         </div>
       </div>
@@ -87,7 +87,7 @@ export default function ContactMe2 () {
           </div>
           <div className="border-0 col-10 text-start border">
           GitHub: <a className="icon" href="https://github.com/ibarros19" target="_blank"
-            rel="noreferrer"> https://github.com/ibarros19 </a>
+            rel="noreferrer"> Click Here</a>
           </div>
         </div>
       </div>
