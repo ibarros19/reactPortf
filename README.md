@@ -27,7 +27,7 @@
 ## Description
 [Main Menu](#home)
 
-My task in this assignment was to build my portfolio using React, its components and technology.
+My task in this assignment was to build my portfolio using React, its components and technology. I tried to make it clean and mobile responsive.
 
 
 <a name='usage'></a>
