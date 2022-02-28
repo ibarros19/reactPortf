@@ -66,6 +66,11 @@ My task in this assignment was to build my portfolio using React, its components
 GitHub Repository-> <a href="https://github.com/ibarros19/reactPortf" target="_blank">LINK</a> 
 <br>
 Live View on GitHub Pages-> <a href="https://ibarros19.github.io/reactPortf" target="_blank">LINK</a> 
+<br>
+Live View of my first portfolio -> <a href="https://ibarros19.github.io/portfolio1/" target="_blank">LINK</a> 
+<br>
+Live View of my second portfolio -> <a href="https://ibarros19.github.io/portfolio2/" target="_blank">LINK</a> 
+
 <a name='questions'></a>
 
 ## Questions
